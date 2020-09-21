@@ -1,0 +1,24 @@
+com/pegatron/exercise6/model/BaseModel.java
+ com.pegatron.exercise6.model.BaseModel
+com/pegatron/exercise6/model/Person.java
+ com.pegatron.exercise6.model.Person
+com/pegatron/exercise6/service/ExerciseService.java
+ com.pegatron.exercise6.service.ExerciseService
+com/pegatron/exercise6/service/ExerciseServiceImpl.java
+ com.pegatron.exercise6.service.ExerciseServiceImpl
+com/pegatron/exercise6/dao/GenericsDao.java
+ com.pegatron.exercise6.dao.GenericsDao
+com/pegatron/exercise6/model/Bookstore.java
+ com.pegatron.exercise6.model.Bookstore
+com/pegatron/exercise6/model/Book.java
+ com.pegatron.exercise6.model.Book
+com/pegatron/exercise6/Exercise6Application.java
+ com.pegatron.exercise6.Exercise6Application
+com/pegatron/exercise6/controller/BookController.java
+ com.pegatron.exercise6.controller.BookController
+com/pegatron/exercise6/configuration/HibernateConfiguration.java
+ com.pegatron.exercise6.configuration.HibernateConfiguration
+com/pegatron/exercise6/controller/BookstoreController.java
+ com.pegatron.exercise6.controller.BookstoreController
+com/pegatron/exercise6/dao/BaseModelDao.java
+ com.pegatron.exercise6.dao.BaseModelDao
